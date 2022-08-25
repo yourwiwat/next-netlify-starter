@@ -4,9 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
-     
-    <!DOCTYPE html>
+    <div className="container">    
         <html>
           <head>
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
